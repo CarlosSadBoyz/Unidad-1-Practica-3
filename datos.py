@@ -1,7 +1,7 @@
 
 import json
 
-ARCHIVO_DATOS = "dispositivos.json"
+ARCHIVO_DATOS = "inventario.json"
 
 
 def cargar_datos():
