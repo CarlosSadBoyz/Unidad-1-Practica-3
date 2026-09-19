@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "codigo": "GDL",
+        "nombre": "Chivas",
+        "cantidad": 26,
+        "estado": "Bueno",
+        "ubicacion": "Guadalajara"
+    },
+    {
+        "codigo": "AME",
+        "nombre": "America",
+        "cantidad": 26,
+        "estado": "Bueno",
+        "ubicacion": "Ciudad de Mexico"
+    },
+    {
+        "codigo": "TOL",
+        "nombre": "Toluca",
+        "cantidad": 26,
+        "estado": "Bueno",
+        "ubicacion": "Toluca"
+    },
+    {
+        "codigo": "CAZ",
+        "nombre": "Cruz Azul",
+        "cantidad": 26,
+        "estado": "Dañado",
+        "ubicacion": "Ciudad de Mexico"
+    },
+    {
+        "codigo": "PUM",
+        "nombre": "Pumas",
+        "cantidad": 25,
+        "estado": "Regular",
+        "ubicacion": "Ciudad de Mexico"
+    },
+    {
+        "codigo": "ATLN",
+        "nombre": "Atlante",
+        "cantidad": 26,
+        "estado": "Bueno",
+        "ubicacion": "Ciudad de Mexico"
+    }
+]
